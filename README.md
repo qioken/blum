@@ -1,6 +1,7 @@
 # blum
-How to use : 
-clone / download fileny
+How to use :
+
+clone / download fileny :
 git clone https://github.com/qioken/blum.git
 file blum.json lu isi query id akun kalian
 [
